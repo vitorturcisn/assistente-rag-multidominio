@@ -1,0 +1,4 @@
+articles.csv
+.env
+chroma_db_geral/
+__pycache__/

@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+langchain-classic
+langsmith
+chromadb
+sentence-transformers
+gradio
+pandas
+tiktoken
+python-dotenv
