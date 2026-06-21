@@ -7,7 +7,7 @@ warnings.filterwarnings('ignore')
 from langchain_groq import ChatGroq
 
 # Correção: A chave precisa estar entre aspas para o Python ler como texto (String)
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "COLE_AQUI_SUA_CHAVE_DA_GROQ"
 
 print("[AMBIENTE: LOCAL/VS CODE] Chave de API configurada diretamente no script.")
 
